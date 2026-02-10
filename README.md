@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Ilona and i am Full-Stack Developer with experience in React, Node.js, and Flutter. 
+Building web and mobile applications with clean architecture and reliable state management.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/25ilona81) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ilonashalagin/) 
