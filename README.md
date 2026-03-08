@@ -17,8 +17,8 @@ News API Dashboard
 ilonashalagin-portfolio.netlify.app
 
 ## Contact
-https://www.linkedin.com/in/ilonashalagin/
-ilonashalagin@gmail.com
+Linkedin:https://www.linkedin.com/in/ilonashalagin/
+Email:ilonashalagin@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/25ilona81) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ilonashalagin/) 
