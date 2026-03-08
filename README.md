@@ -1,6 +1,24 @@
-### Hi there 👋
-My name is Ilona and i am Full-Stack Developer with experience in React, Node.js, and Flutter. 
-Building web and mobile applications with clean architecture and reliable state management.
+# Hi, I'm Ilona 👋
+
+Front-End & Flutter Developer
+
+I build responsive web applications and cross-platform mobile apps using modern technologies.
+
+## Tech Stack
+HTML | CSS | JavaScript | React | Node.js | Flutter | Firebase | MongoDB
+
+## Featured Projects
+MacBook GSAP Landing Page  
+Flutter Authentication App  
+Full Stack Task Manager  
+News API Dashboard
+
+## Portfolio
+ilonashalagin-portfolio.netlify.app
+
+## Contact
+https://www.linkedin.com/in/ilonashalagin/
+ilonashalagin@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/25ilona81) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ilonashalagin/) 
