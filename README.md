@@ -1,11 +1,10 @@
 # Hi, I'm Ilona 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;Flutter+Developer)
+
 Front-End & Flutter Developer
 
 I build responsive web applications and cross-platform mobile apps using modern technologies.
-
-## Tech Stack
-HTML | CSS | JavaScript | React | Node.js | Flutter | Firebase | MongoDB
 
 ## Featured Projects
 MacBook GSAP Landing Page  
